@@ -1,0 +1,45 @@
+2021-02-22 16:42:16,603 INFO [test_case.py(test3:111)] - name is 圆锥台橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:16,603 INFO [test_case.py(test3:113)] - 上传文件 1 次，上传的文件名为: 1 圆锥台橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:16,603 INFO [test_case.py(test3:114)] - comId is ECrPw-61O4-kg16-WPLjy
+2021-02-22 16:42:16,603 INFO [test_case.py(test3:115)] - {'status': 'success', 'data': {'id': 1301, 'version': 0, 'createTime': '2021-02-22 16:42:17', 'comId': 'ECrPw-61O4-kg16-WPLjy', 'comName': '圆锥台橡胶剪切弹簧的变形量和刚度计算', 'comType': 'excel', 'comPath': None, 'comPlatforms': None, 'comArm': 1.0, 'comCpu': 1, 'comVersion': '1.0', 'comApiUrl': None, 'comDescription': None, 'comAuthor': 'AuthorTest', 'comEmail': None, 'comIconUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/icon/excel/ECrPw-61O4-kg16-WPLjy', 'comResUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/res/excel/ECrPw-61O4-kg16-WPLjy', 'comGroup': 2, 'comTypeGroup': 0}, 'msg': '创建成功'}
+2021-02-22 16:42:16,606 INFO [test_case.py(test3:116)] - 圆锥台橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:16,951 INFO [test_case.py(test3:111)] - name is 矩形块橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:16,951 INFO [test_case.py(test3:113)] - 上传文件 2 次，上传的文件名为: 2 矩形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:16,951 INFO [test_case.py(test3:114)] - comId is OUuKf-n2Bq-PqLD-PSyq8
+2021-02-22 16:42:16,951 INFO [test_case.py(test3:115)] - {'status': 'success', 'data': {'id': 1302, 'version': 0, 'createTime': '2021-02-22 16:42:17', 'comId': 'OUuKf-n2Bq-PqLD-PSyq8', 'comName': '矩形块橡胶剪切弹簧的变形量和刚度计算', 'comType': 'excel', 'comPath': None, 'comPlatforms': None, 'comArm': 1.0, 'comCpu': 1, 'comVersion': '1.0', 'comApiUrl': None, 'comDescription': None, 'comAuthor': 'AuthorTest', 'comEmail': None, 'comIconUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/icon/excel/OUuKf-n2Bq-PqLD-PSyq8', 'comResUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/res/excel/OUuKf-n2Bq-PqLD-PSyq8', 'comGroup': 2, 'comTypeGroup': 0}, 'msg': '创建成功'}
+2021-02-22 16:42:16,951 INFO [test_case.py(test3:116)] - 矩形块橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:17,251 INFO [test_case.py(test3:111)] - name is 菱形块橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:17,251 INFO [test_case.py(test3:113)] - 上传文件 3 次，上传的文件名为: 3 菱形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:17,251 INFO [test_case.py(test3:114)] - comId is vM6tD-ZraC-yp1z-eLk0x
+2021-02-22 16:42:17,252 INFO [test_case.py(test3:115)] - {'status': 'success', 'data': {'id': 1303, 'version': 0, 'createTime': '2021-02-22 16:42:17', 'comId': 'vM6tD-ZraC-yp1z-eLk0x', 'comName': '菱形块橡胶剪切弹簧的变形量和刚度计算', 'comType': 'excel', 'comPath': None, 'comPlatforms': None, 'comArm': 1.0, 'comCpu': 1, 'comVersion': '1.0', 'comApiUrl': None, 'comDescription': None, 'comAuthor': 'AuthorTest', 'comEmail': None, 'comIconUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/icon/excel/vM6tD-ZraC-yp1z-eLk0x', 'comResUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/res/excel/vM6tD-ZraC-yp1z-eLk0x', 'comGroup': 2, 'comTypeGroup': 0}, 'msg': '创建成功'}
+2021-02-22 16:42:17,252 INFO [test_case.py(test3:116)] - 菱形块橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:17,528 INFO [test_case.py(test3:111)] - name is 梯形块橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:17,528 INFO [test_case.py(test3:113)] - 上传文件 4 次，上传的文件名为: 4 梯形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:17,528 INFO [test_case.py(test3:114)] - comId is ltG3x-dZoc-OMbn-M0vx6
+2021-02-22 16:42:17,528 INFO [test_case.py(test3:115)] - {'status': 'success', 'data': {'id': 1304, 'version': 0, 'createTime': '2021-02-22 16:42:17', 'comId': 'ltG3x-dZoc-OMbn-M0vx6', 'comName': '梯形块橡胶剪切弹簧的变形量和刚度计算', 'comType': 'excel', 'comPath': None, 'comPlatforms': None, 'comArm': 1.0, 'comCpu': 1, 'comVersion': '1.0', 'comApiUrl': None, 'comDescription': None, 'comAuthor': 'AuthorTest', 'comEmail': None, 'comIconUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/icon/excel/ltG3x-dZoc-OMbn-M0vx6', 'comResUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/res/excel/ltG3x-dZoc-OMbn-M0vx6', 'comGroup': 2, 'comTypeGroup': 0}, 'msg': '创建成功'}
+2021-02-22 16:42:17,528 INFO [test_case.py(test3:116)] - 梯形块橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:17,677 INFO [test_case.py(test3:111)] - name is 矩形锥台橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:17,678 INFO [test_case.py(test3:113)] - 上传文件 5 次，上传的文件名为: 5 矩形锥台橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:17,678 INFO [test_case.py(test3:114)] - comId is NgyqC-DCdO-6HOp-DHysk
+2021-02-22 16:42:17,678 INFO [test_case.py(test3:115)] - {'status': 'fail', 'data': None, 'msg': 'Unable to create the inputStream.'}
+2021-02-22 16:42:17,678 INFO [test_case.py(test3:116)] - 矩形锥台橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:18,036 INFO [test_case.py(test3:111)] - name is 衬套（长度不变）橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:18,036 INFO [test_case.py(test3:113)] - 上传文件 6 次，上传的文件名为: 6 衬套（长度不变）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:18,036 INFO [test_case.py(test3:114)] - comId is pntLT-sWSO-gqfI-aUemt
+2021-02-22 16:42:18,037 INFO [test_case.py(test3:115)] - {'status': 'success', 'data': {'id': 1305, 'version': 0, 'createTime': '2021-02-22 16:42:18', 'comId': 'pntLT-sWSO-gqfI-aUemt', 'comName': '衬套（长度不变）橡胶剪切弹簧的变形量和刚度计算', 'comType': 'excel', 'comPath': None, 'comPlatforms': None, 'comArm': 1.0, 'comCpu': 1, 'comVersion': '1.0', 'comApiUrl': None, 'comDescription': None, 'comAuthor': 'AuthorTest', 'comEmail': None, 'comIconUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/icon/excel/pntLT-sWSO-gqfI-aUemt', 'comResUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/res/excel/pntLT-sWSO-gqfI-aUemt', 'comGroup': 2, 'comTypeGroup': 0}, 'msg': '创建成功'}
+2021-02-22 16:42:18,037 INFO [test_case.py(test3:116)] - 衬套（长度不变）橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:18,371 INFO [test_case.py(test3:111)] - name is 衬套（长度与直径成正比）橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:18,371 INFO [test_case.py(test3:113)] - 上传文件 7 次，上传的文件名为: 7 衬套（长度与直径成正比）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:18,371 INFO [test_case.py(test3:114)] - comId is FzfQT-HL19-CLbn-rAvZQ
+2021-02-22 16:42:18,371 INFO [test_case.py(test3:115)] - {'status': 'success', 'data': {'id': 1306, 'version': 0, 'createTime': '2021-02-22 16:42:18', 'comId': 'FzfQT-HL19-CLbn-rAvZQ', 'comName': '衬套（长度与直径成正比）橡胶剪切弹簧的变形量和刚度计算', 'comType': 'excel', 'comPath': None, 'comPlatforms': None, 'comArm': 1.0, 'comCpu': 1, 'comVersion': '1.0', 'comApiUrl': None, 'comDescription': None, 'comAuthor': 'AuthorTest', 'comEmail': None, 'comIconUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/icon/excel/FzfQT-HL19-CLbn-rAvZQ', 'comResUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/res/excel/FzfQT-HL19-CLbn-rAvZQ', 'comGroup': 3, 'comTypeGroup': 0}, 'msg': '创建成功'}
+2021-02-22 16:42:18,371 INFO [test_case.py(test3:116)] - 衬套（长度与直径成正比）橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:18,727 INFO [test_case.py(test3:111)] - name is 衬套（长度与直径乘积恒定）橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:18,727 INFO [test_case.py(test3:113)] - 上传文件 8 次，上传的文件名为: 8 衬套（长度与直径乘积恒定）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:18,727 INFO [test_case.py(test3:114)] - comId is vfNTL-Rv56-WTIU-1ezJB
+2021-02-22 16:42:18,727 INFO [test_case.py(test3:115)] - {'status': 'success', 'data': {'id': 1307, 'version': 0, 'createTime': '2021-02-22 16:42:19', 'comId': 'vfNTL-Rv56-WTIU-1ezJB', 'comName': '衬套（长度与直径乘积恒定）橡胶剪切弹簧的变形量和刚度计算', 'comType': 'excel', 'comPath': None, 'comPlatforms': None, 'comArm': 1.0, 'comCpu': 1, 'comVersion': '1.0', 'comApiUrl': None, 'comDescription': None, 'comAuthor': 'AuthorTest', 'comEmail': None, 'comIconUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/icon/excel/vfNTL-Rv56-WTIU-1ezJB', 'comResUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/res/excel/vfNTL-Rv56-WTIU-1ezJB', 'comGroup': 3, 'comTypeGroup': 0}, 'msg': '创建成功'}
+2021-02-22 16:42:18,728 INFO [test_case.py(test3:116)] - 衬套（长度与直径乘积恒定）橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:19,007 INFO [test_case.py(test3:111)] - name is 盘形橡胶剪切弹簧的变形量和刚度计算
+2021-02-22 16:42:19,007 INFO [test_case.py(test3:113)] - 上传文件 9 次，上传的文件名为: 9 盘形橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:42:19,007 INFO [test_case.py(test3:114)] - comId is MGgeF-CMoe-KbJY-YPV1x
+2021-02-22 16:42:19,007 INFO [test_case.py(test3:115)] - {'status': 'success', 'data': {'id': 1308, 'version': 0, 'createTime': '2021-02-22 16:42:19', 'comId': 'MGgeF-CMoe-KbJY-YPV1x', 'comName': '盘形橡胶剪切弹簧的变形量和刚度计算', 'comType': 'excel', 'comPath': None, 'comPlatforms': None, 'comArm': 1.0, 'comCpu': 1, 'comVersion': '1.0', 'comApiUrl': None, 'comDescription': None, 'comAuthor': 'AuthorTest', 'comEmail': None, 'comIconUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/icon/excel/MGgeF-CMoe-KbJY-YPV1x', 'comResUrl': 'https://honeycom-iiapp.obs.cn-east-2.myhuaweicloud.com:443/iiapp/res/excel/MGgeF-CMoe-KbJY-YPV1x', 'comGroup': 3, 'comTypeGroup': 0}, 'msg': '创建成功'}
+2021-02-22 16:42:19,007 INFO [test_case.py(test3:116)] - 盘形橡胶剪切弹簧的变形量和刚度计算

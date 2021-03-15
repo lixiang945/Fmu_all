@@ -1,0 +1,27 @@
+2021-02-22 16:32:29,296 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:29,297 INFO [test_case.py(test3:112)] - 上传文件 1 次，上传的文件名为: 1 圆锥台橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:29,297 INFO [test_case.py(test3:113)] - comId is thAKH-jhOf-9jNK-irzc3
+2021-02-22 16:32:29,389 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:29,389 INFO [test_case.py(test3:112)] - 上传文件 2 次，上传的文件名为: 2 矩形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:29,389 INFO [test_case.py(test3:113)] - comId is dzv9j-Igv3-CxNc-todTQ
+2021-02-22 16:32:29,488 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:29,488 INFO [test_case.py(test3:112)] - 上传文件 3 次，上传的文件名为: 3 菱形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:29,488 INFO [test_case.py(test3:113)] - comId is GRmex-v7sE-B7yu-FCmZL
+2021-02-22 16:32:29,587 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:29,587 INFO [test_case.py(test3:112)] - 上传文件 4 次，上传的文件名为: 4 梯形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:29,587 INFO [test_case.py(test3:113)] - comId is nzRks-SGYZ-MZIR-Fi25h
+2021-02-22 16:32:29,702 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:29,702 INFO [test_case.py(test3:112)] - 上传文件 5 次，上传的文件名为: 5 矩形锥台橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:29,702 INFO [test_case.py(test3:113)] - comId is 9qetc-Lmid-7cN2-d08qv
+2021-02-22 16:32:29,788 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:29,788 INFO [test_case.py(test3:112)] - 上传文件 6 次，上传的文件名为: 6 衬套（长度不变）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:29,788 INFO [test_case.py(test3:113)] - comId is ftcVi-AMe9-sVoL-rwSyD
+2021-02-22 16:32:29,890 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:29,890 INFO [test_case.py(test3:112)] - 上传文件 7 次，上传的文件名为: 7 衬套（长度与直径成正比）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:29,890 INFO [test_case.py(test3:113)] - comId is NAJpi-xX2z-sv7c-i2ByR
+2021-02-22 16:32:29,994 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:29,994 INFO [test_case.py(test3:112)] - 上传文件 8 次，上传的文件名为: 8 衬套（长度与直径乘积恒定）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:29,994 INFO [test_case.py(test3:113)] - comId is iFrH6-qxl8-0qQM-jsiYl
+2021-02-22 16:32:30,102 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:32:30,102 INFO [test_case.py(test3:112)] - 上传文件 9 次，上传的文件名为: 9 盘形橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:32:30,102 INFO [test_case.py(test3:113)] - comId is cOWQV-HUyt-rRGM-x1YG0

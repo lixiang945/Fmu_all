@@ -1,0 +1,36 @@
+2021-02-22 16:34:50,200 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:50,200 INFO [test_case.py(test3:112)] - 上传文件 1 次，上传的文件名为: 1 圆锥台橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:50,200 INFO [test_case.py(test3:113)] - comId is MjTl1-M2kJ-tnXu-LPI6s
+2021-02-22 16:34:50,201 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}
+2021-02-22 16:34:50,304 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:50,304 INFO [test_case.py(test3:112)] - 上传文件 2 次，上传的文件名为: 2 矩形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:50,306 INFO [test_case.py(test3:113)] - comId is qtYgG-HzZq-cFtM-IWbOt
+2021-02-22 16:34:50,306 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}
+2021-02-22 16:34:50,406 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:50,406 INFO [test_case.py(test3:112)] - 上传文件 3 次，上传的文件名为: 3 菱形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:50,406 INFO [test_case.py(test3:113)] - comId is VSlO0-LTuA-F2Ux-f8abu
+2021-02-22 16:34:50,406 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}
+2021-02-22 16:34:50,500 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:50,500 INFO [test_case.py(test3:112)] - 上传文件 4 次，上传的文件名为: 4 梯形块橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:50,500 INFO [test_case.py(test3:113)] - comId is WEztN-5mzV-iDBx-Tl724
+2021-02-22 16:34:50,500 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}
+2021-02-22 16:34:50,613 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:50,613 INFO [test_case.py(test3:112)] - 上传文件 5 次，上传的文件名为: 5 矩形锥台橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:50,614 INFO [test_case.py(test3:113)] - comId is zfTMK-R9si-hENJ-tIFZh
+2021-02-22 16:34:50,614 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}
+2021-02-22 16:34:50,718 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:50,718 INFO [test_case.py(test3:112)] - 上传文件 6 次，上传的文件名为: 6 衬套（长度不变）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:50,718 INFO [test_case.py(test3:113)] - comId is Zg6Ei-9s1c-gYCz-xiVAu
+2021-02-22 16:34:50,718 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}
+2021-02-22 16:34:50,821 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:50,821 INFO [test_case.py(test3:112)] - 上传文件 7 次，上传的文件名为: 7 衬套（长度与直径成正比）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:50,822 INFO [test_case.py(test3:113)] - comId is Au1oS-jMDT-VFlM-cvGt5
+2021-02-22 16:34:50,822 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}
+2021-02-22 16:34:50,946 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:50,946 INFO [test_case.py(test3:112)] - 上传文件 8 次，上传的文件名为: 8 衬套（长度与直径乘积恒定）橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:50,946 INFO [test_case.py(test3:113)] - comId is RNU67-HSRk-Y5Ve-yeoHl
+2021-02-22 16:34:50,947 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}
+2021-02-22 16:34:51,050 INFO [test_case.py(test3:110)] - name is None
+2021-02-22 16:34:51,050 INFO [test_case.py(test3:112)] - 上传文件 9 次，上传的文件名为: 9 盘形橡胶剪切弹簧的变形量和刚度计算.xlsx
+2021-02-22 16:34:51,050 INFO [test_case.py(test3:113)] - comId is gctlF-5pjd-AgjS-cUKFH
+2021-02-22 16:34:51,050 INFO [test_case.py(test3:114)] - {'status': 'fail', 'data': None, 'msg': '组件名称[comName]不得为空'}

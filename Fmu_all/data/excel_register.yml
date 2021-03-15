@@ -1,0 +1,16 @@
+excel组件创建成功:
+ url : http://121.36.136.66:31035/excel/register
+ excelpath: D:\机理模型\Excel模型\橡胶剪切弹簧
+ imagepath: d:\test_source\1.gif
+ data :
+  comArm: 1.0
+  comAuthor: AuthorTest
+  comCpu: 1
+  comDescription:
+  comId:
+  comEmail:
+  comName:
+  comPlatforms:
+  comVersion: 1.0
+
+

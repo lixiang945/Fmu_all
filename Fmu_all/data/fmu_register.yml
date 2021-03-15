@@ -1,0 +1,33 @@
+32位fmu组件创建成功:
+ url : http://121.36.136.66:31035/fmu/register
+ fmupath: D:\fmu\APP_FMU_0129\win32_FMU
+ imagepath: d:\test_source\1.gif
+ data :
+  comArm: 1.0
+  comAuthor: AuthorTest
+  comCpu: 1
+  comDescription:
+  comId:
+  comEmail:
+  comName:
+  comPlatforms:
+  comVersion: 1.0
+ value: 32
+ assert: success
+
+#64位fmu组件创建成功:
+# url : http://121.36.136.66:32035/fmu/register
+# fmupath: D:\fmu\APP_FMU_0129\win64_FMU
+# imagepath: d:\test_source\1.gif
+# data :
+#  comArm: 1.0
+#  comAuthor: AuthorTest
+#  comCpu: 1
+#  comDescription:
+#  comId:
+#  comEmail:
+#  comName:
+#  comPlatforms:
+#  comVersion: 1.0
+# value: 64
+# assert: success
